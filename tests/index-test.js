@@ -6,3 +6,4 @@ test('it is working', (assert) => {
 
 import './arrays/sum-test';
 import './arrays/sum-all-test';
+import './arrays/name-only-test';
